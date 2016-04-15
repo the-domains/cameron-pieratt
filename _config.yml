@@ -1,7 +1,7 @@
 name: Cameron Pieratt
 favicon: null
-layout_spectrum: 0.20685509988106787
-typography_spectrum: 0.6027615526691079
+layout_spectrum: 0.25508
+typography_spectrum: 0.38456
 title: Cameron Pieratt
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6878284343983978
-  lightness: 0.5682573602534831
-  saturation: 0.7829578965902328
-  rhythmicContrast: 0.6317091670352966
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
