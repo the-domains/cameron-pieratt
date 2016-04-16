@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cameron Pieratt]]></title>
+        <description><![CDATA[Cameron Pieratt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 21:43:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Summer Meltdown 2015]]></title>
+            <description><![CDATA[<article><h1>Summer Meltdown 2015</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9e15ecf-b2eb-454b-a1a3-4f967d855870.jpg"></article>]]></description>
+            <link>undefined5ad0b05f-943e-4b91-bf50-c728a530f070/index.html</link>
+            <guid isPermaLink="false">5ad0b05f-943e-4b91-bf50-c728a530f070</guid>
+            <pubDate>Sat, 16 Apr 2016 21:43:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
